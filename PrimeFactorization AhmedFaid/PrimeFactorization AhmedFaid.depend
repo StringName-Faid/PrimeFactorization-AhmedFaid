@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1529797494 source:f:\projects\primefactorization ahmedfaid\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<vector>
+	<thread>
+
